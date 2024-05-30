@@ -1,0 +1,17 @@
+.header-logo {
+  letter-spacing: 0.25em;
+
+  font-size: 24px;
+  &__link {
+    width: 80px;
+    height: 60px;
+  }
+  &__accent {
+    display: inline-block;
+
+    margin-right: 7px;
+    padding: 17px 5px 17px 5px;
+
+    border: 3px solid #d53d27;
+  }
+}
